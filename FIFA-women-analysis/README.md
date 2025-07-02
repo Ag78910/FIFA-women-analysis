@@ -13,11 +13,7 @@ FIFA-women-analysis/
 ├── datos/
 │   ├── female_players.csv         # Player data
 │   └── female_teams.csv           # Team data
-├── informe/
-│   └── Actividad3_AlejandroGalindo_CarlaMoreno.docx
-└── presentacion/
-    └── ResultadosFIFA.pptx
-```
+
 
 ## 🧠 Project Goals
 
